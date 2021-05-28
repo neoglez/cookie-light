@@ -1,0 +1,20 @@
+{
+  "name": "cookie-light",
+  "description": "cookie-cutter Typescript-compatible version",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neoglez/cookie-light.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "cookie",
+    "browser",
+    "browserify"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Yansel Gonzalez Tejeda",
+    "email": "neoglez@gmail.com"
+  }
+}
